@@ -38,7 +38,4 @@ Product review insights
 Business decision support
 Social media sentiment tracking
 
-If you want, I can also:
-Make this ATS-friendly for resume
-✅ Add GitHub badges & structure
-✅ Give README with screenshots and emojis (premium look)
+
